@@ -515,7 +515,7 @@ footer { background:var(--navy); padding:52px 5% 24px; }
         <div class="ihra-pill">🏅 IHRA Registered</div>
       </div>
 
-      <div class="hero-ctas">
+      
        <div class="hero-ctas">
   <a href="tel:0514493031" class="btn-gold">📞 Call Now (Instant Booking)</a>
   <a href="https://wa.me/923111529680?text=Hello%2C%20I%20want%20appointment%20today" class="btn-wa" target="_blank">💬 WhatsApp (Fast Response)</a>
@@ -1528,25 +1528,24 @@ function toggleAllSpecs() {
     document.getElementById('showMoreBtn').textContent = 'Show All 15 Departments ▼';
   }
 }
-  if(allShown) {
-    document.querySelectorAll('#specGrid .spec-card').forEach(c => { c.style.display=''; c.classList.remove('hidden'); });
-    document.getElementById('showMoreBtn').textContent = 'Show Less ▲';
-  } else {
-    document.querySelectorAll('#specGrid .spec-card').forEach((c,i) => { if(i>=6){ c.style.display='none'; c.classList.add('hidden'); } });
-    document.getElementById('showMoreBtn').textContent = 'Show All 15 Departments ▼';
-  }
-}
 
 // ── WhatsApp bubble — show after 10s
 setTimeout(() => {
   const b = document.getElementById('waBubble');
   if(b) { b.style.display='block'; setTimeout(() => { b.style.display='none'; }, 6000); }
 }, 10000);
+ 
+// Open WhatsApp only after user clicks anywhere
+let opened = false;
 
-// ── Auto WhatsApp Popup after 25 seconds
-setTimeout(() => {
-  window.open("https://wa.me/923111529680?text=Hello%2C%20I%20need%20doctor%20appointment", "_blank");
-}, 25000);
+document.addEventListener("click", () => {
+  if (!opened) {
+    opened = true;
+    setTimeout(() => {
+      window.open("https://wa.me/923111529680?text=Hello%2C%20I%20need%20doctor%20appointment", "_blank");
+    }, 5000);
+  }
+});
 
 </script>
 </body>
