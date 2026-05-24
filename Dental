@@ -1,0 +1,1243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FZ Dental Clinic Islamabad | Implants, Braces, Root Canal | Jinnah Garden</title>
+<meta name="description" content="FZ International Hospital Dental Clinic, Jinnah Garden Islamabad. Dental Implants from Rs.80,000, Braces Rs.35,000, Root Canal, Crowns. FCPS Orthodontist Dr. Tooba Zahoor. Book today.">
+<meta name="keywords" content="dental clinic Islamabad, dental implants Islamabad price, braces Islamabad, orthodontist Islamabad, root canal Islamabad, dentist Jinnah Garden, FCPS dentist Islamabad, dental implants cost Pakistan, FZ dental">
+<meta property="og:title" content="FZ Dental Clinic Islamabad | Implants from Rs.80,000 | Braces Rs.35,000">
+<meta property="og:description" content="FCPS Orthodontist, UK-trained oral surgeon. Dental implants, braces, root canal, crowns. Jinnah Garden Islamabad.">
+<meta name="geo.region" content="PK-IS">
+<meta name="geo.placename" content="Islamabad">
+
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org","@type":"Dentist",
+  "name":"FZ International Hospital — Dental Clinic",
+  "description":"Premium dental clinic in Jinnah Garden Islamabad. Implants, Braces, Root Canal, Crowns by FCPS specialists.",
+  "telephone":"+925144930311",
+  "priceRange":"Rs. 1,500 - Rs. 250,000",
+  "address":{"@type":"PostalAddress","streetAddress":"204 Street, Shaheen Commercial, Jinnah Garden","addressLocality":"Islamabad","addressCountry":"PK"},
+  "geo":{"@type":"GeoCoordinates","latitude":"33.574523","longitude":"73.169550"},
+  "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","reviewCount":"95"},
+  "hasMap":"https://maps.app.goo.gl/EGrFk54bbtWk7nGb8",
+  "openingHours":"Mo-Sa 09:00-20:00",
+  "medicalSpecialty":"Dentistry"
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+/* ── TOKENS ── */
+:root{
+  --teal:#0a6b6b; --teal-light:#0d8a8a; --teal-pale:#e8f5f5;
+  --navy:#0a1628; --navy-mid:#163252;
+  --gold:#b8963e; --gold-light:#d4ae5a; --gold-pale:#fdf8ee;
+  --mint:#f0fafa; --white:#ffffff; --off:#f8fafb;
+  --gray:#64748b; --gray-light:#e2e8f0; --text:#1e293b;
+  --green:#25D366; --red:#ef4444;
+  --shadow:0 4px 24px rgba(10,107,107,.1);
+  --shadow-lg:0 12px 48px rgba(10,107,107,.15);
+}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Plus Jakarta Sans',sans-serif;background:var(--white);color:var(--text);overflow-x:hidden;}
+a{text-decoration:none;}
+img{max-width:100%;display:block;}
+
+/* ── TICKER ── */
+.ticker{background:var(--teal);height:38px;overflow:hidden;}
+.ticker-track{display:flex;align-items:center;height:100%;animation:tk 28s linear infinite;white-space:nowrap;}
+.ticker-track:hover{animation-play-state:paused;}
+.ti{display:inline-flex;align-items:center;gap:8px;padding:0 28px;font-size:.76rem;font-weight:500;color:rgba(255,255,255,.9);letter-spacing:.03em;}
+.ts{color:rgba(255,255,255,.4);}
+@keyframes tk{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+/* ── NAV ── */
+.nav{position:fixed;top:38px;left:0;right:0;z-index:1000;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 5%;height:72px;background:rgba(255,255,255,.97);
+  backdrop-filter:blur(20px);border-bottom:1px solid transparent;
+  transition:all .3s;box-shadow:none;}
+.nav.scrolled{top:0;border-bottom-color:var(--gray-light);box-shadow:0 2px 20px rgba(10,107,107,.08);}
+.logo-wrap{display:flex;align-items:center;gap:14px;}
+.logo-icon{width:46px;height:46px;background:linear-gradient(135deg,var(--teal),var(--teal-light));
+  border-radius:12px;display:flex;align-items:center;justify-content:center;
+  font-family:'DM Serif Display',serif;font-size:1.1rem;color:white;flex-shrink:0;}
+.logo-name{font-family:'DM Serif Display',serif;font-size:1.05rem;color:var(--navy);display:block;line-height:1.2;}
+.logo-sub{font-size:.63rem;color:var(--teal);font-weight:600;letter-spacing:.08em;text-transform:uppercase;}
+.nav-links{display:flex;align-items:center;gap:6px;}
+.nav-links a{color:var(--gray);font-size:.82rem;font-weight:500;padding:7px 14px;border-radius:8px;transition:all .2s;}
+.nav-links a:hover{color:var(--teal);background:var(--teal-pale);}
+.nav-right{display:flex;align-items:center;gap:10px;}
+.nav-back{display:flex;align-items:center;gap:6px;color:var(--gray);font-size:.76rem;font-weight:500;
+  border:1px solid var(--gray-light);padding:7px 14px;border-radius:8px;transition:all .2s;}
+.nav-back:hover{color:var(--teal);border-color:var(--teal);}
+.nav-cta{background:var(--teal);color:white;padding:9px 20px;border-radius:10px;
+  font-size:.8rem;font-weight:700;transition:all .3s;box-shadow:var(--shadow);}
+.nav-cta:hover{background:var(--teal-light);transform:translateY(-1px);}
+
+/* ── HERO ── */
+.hero{margin-top:110px;min-height:calc(100vh - 110px);
+  display:flex;align-items:center;padding:60px 5% 80px;
+  position:relative;overflow:hidden;
+  background:linear-gradient(135deg,var(--navy) 0%,var(--navy-mid) 45%,#1a4a6e 100%);}
+.hero-dots{position:absolute;inset:0;opacity:.06;
+  background-image:radial-gradient(circle,white 1px,transparent 1px);
+  background-size:32px 32px;}
+.hero-glow{position:absolute;inset:0;
+  background:radial-gradient(ellipse 60% 60% at 65% 40%,rgba(10,107,107,.25),transparent 70%);}
+.hero-arc{position:absolute;right:-100px;top:-100px;width:600px;height:600px;
+  border-radius:50%;border:1px solid rgba(255,255,255,.05);}
+.hero-arc2{position:absolute;right:-200px;top:-200px;width:800px;height:800px;
+  border-radius:50%;border:1px solid rgba(255,255,255,.03);}
+
+.hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1.1fr 1fr;gap:64px;align-items:center;width:100%;max-width:1280px;}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;
+  background:rgba(10,107,107,.3);border:1px solid rgba(10,220,220,.25);
+  color:#7de8e8;padding:7px 16px;border-radius:100px;
+  font-size:.7rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+  margin-bottom:22px;}
+.badge-dot{width:6px;height:6px;background:#7de8e8;border-radius:50%;animation:bd 2s infinite;}
+@keyframes bd{0%,100%{opacity:1}50%{opacity:.3}}
+.hero h1{font-family:'DM Serif Display',serif;
+  font-size:clamp(2.6rem,4.8vw,4.4rem);color:white;line-height:1.12;margin-bottom:22px;}
+.hero h1 em{font-style:italic;color:#7de8e8;}
+.hero-desc{font-size:1rem;color:rgba(255,255,255,.65);line-height:1.8;margin-bottom:30px;max-width:480px;}
+/* Highlight features */
+.hero-feats{display:flex;flex-direction:column;gap:10px;margin-bottom:32px;}
+.hf{display:flex;align-items:center;gap:12px;color:rgba(255,255,255,.85);font-size:.88rem;}
+.hf-check{width:20px;height:20px;background:rgba(10,107,107,.4);border:1px solid rgba(10,220,220,.3);
+  border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.65rem;color:#7de8e8;flex-shrink:0;}
+.hero-ctas{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:20px;}
+.btn-teal{display:flex;align-items:center;gap:8px;background:var(--teal);color:white;
+  padding:13px 24px;border-radius:12px;font-weight:700;font-size:.9rem;
+  transition:all .3s;box-shadow:0 4px 20px rgba(10,107,107,.4);}
+.btn-teal:hover{background:var(--teal-light);transform:translateY(-2px);}
+.btn-wa{display:flex;align-items:center;gap:8px;background:var(--green);color:white;
+  padding:13px 24px;border-radius:12px;font-weight:700;font-size:.9rem;
+  transition:all .3s;animation:pgr 3s infinite;}
+.btn-wa:hover{transform:translateY(-2px);}
+@keyframes pgr{0%,100%{box-shadow:0 4px 16px rgba(37,211,102,.3)}50%{box-shadow:0 4px 28px rgba(37,211,102,.6)}}
+.btn-outline-w{display:flex;align-items:center;gap:8px;
+  border:1.5px solid rgba(255,255,255,.25);color:rgba(255,255,255,.8);
+  padding:13px 22px;border-radius:12px;font-weight:500;font-size:.88rem;transition:all .3s;}
+.btn-outline-w:hover{border-color:rgba(255,255,255,.5);background:rgba(255,255,255,.05);}
+.hero-urgency{display:inline-flex;align-items:center;gap:8px;
+  background:rgba(239,68,68,.15);border:1px solid rgba(239,68,68,.3);
+  color:#fca5a5;padding:8px 16px;border-radius:8px;font-size:.78rem;font-weight:500;}
+.blink{animation:bl 1.2s infinite;}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* Hero right card */
+.hero-card{background:rgba(255,255,255,.06);backdrop-filter:blur(20px);
+  border:1px solid rgba(255,255,255,.12);border-radius:24px;overflow:hidden;}
+/* Clinic image placeholder — replace with images/dental-room.jpg -->
+.hc-img{height:260px;
+  background:linear-gradient(135deg,#0a2a2a 0%,#0d3d3d 50%,#0a2a2a 100%);
+  position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden;}
+.hc-img img{width:100%;height:100%;object-fit:cover;}
+.hc-img-ph{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;height:100%;}
+.hc-img-ph-icon{font-size:4rem;opacity:.35;}
+.hc-img-ph-text{font-family:'DM Serif Display',serif;font-size:1rem;color:rgba(125,232,232,.5);font-style:italic;}
+.hc-float{position:absolute;bottom:14px;left:14px;right:14px;
+  background:rgba(10,22,40,.75);backdrop-filter:blur(10px);
+  border:1px solid rgba(125,232,232,.2);border-radius:12px;padding:12px 16px;}
+.hcf-title{font-size:.82rem;font-weight:600;color:white;margin-bottom:3px;}
+.hcf-sub{font-size:.7rem;color:#7de8e8;letter-spacing:.04em;}
+.hc-stats{display:grid;grid-template-columns:1fr 1fr 1fr;border-top:1px solid rgba(255,255,255,.08);}
+.hcs{text-align:center;padding:14px 8px;}
+.hcs+.hcs{border-left:1px solid rgba(255,255,255,.08);}
+.hcs-num{font-family:'DM Serif Display',serif;font-size:1.4rem;color:#7de8e8;}
+.hcs-lbl{font-size:.62rem;color:rgba(255,255,255,.45);letter-spacing:.06em;text-transform:uppercase;}
+
+/* ── TRUST BAR ── */
+.trust-bar{background:white;border-bottom:1px solid var(--gray-light);
+  padding:16px 5%;display:flex;align-items:center;justify-content:center;gap:0;flex-wrap:wrap;
+  box-shadow:0 2px 12px rgba(10,107,107,.06);}
+.trust-item{display:flex;align-items:center;gap:10px;padding:8px 28px;position:relative;}
+.trust-item+.trust-item::before{content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);
+  width:1px;height:26px;background:var(--gray-light);}
+.trust-icon{font-size:1.1rem;}
+.trust-txt{font-size:.78rem;color:var(--gray);}
+.trust-txt strong{color:var(--text);font-weight:600;display:block;}
+
+/* ── SECTIONS ── */
+section{padding:80px 5%;}
+.eyebrow{font-size:.7rem;color:var(--teal);letter-spacing:.14em;text-transform:uppercase;
+  font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:10px;}
+.eyebrow::after{content:'';flex:1;max-width:44px;height:2px;background:var(--teal);opacity:.35;border-radius:1px;}
+.sec-title{font-family:'DM Serif Display',serif;font-size:clamp(1.9rem,3.2vw,2.8rem);
+  color:var(--navy);line-height:1.25;margin-bottom:14px;}
+.sec-title em{font-style:italic;color:var(--teal);}
+.sec-sub{font-size:.95rem;color:var(--gray);line-height:1.8;max-width:560px;}
+
+/* ── DOCTORS ── */
+.doctors-sec{background:var(--mint);}
+.docs-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:48px;}
+.doc-card{background:white;border-radius:20px;overflow:hidden;
+  border:1px solid var(--gray-light);transition:all .4s;
+  box-shadow:0 2px 16px rgba(10,107,107,.06);}
+.doc-card:hover{transform:translateY(-6px);box-shadow:var(--shadow-lg);border-color:var(--teal);}
+/* Replace with actual doctor photos */
+.doc-photo{height:200px;position:relative;overflow:hidden;
+  background:linear-gradient(135deg,#e8f5f5,#d0ecec);}
+.doc-photo img{width:100%;height:100%;object-fit:cover;object-position:top;}
+.doc-photo-ph{height:200px;display:flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,#e8f5f5,#d0ecec);}
+.doc-initial-big{font-family:'DM Serif Display',serif;font-size:4rem;color:var(--teal);opacity:.35;}
+.doc-spec-badge{position:absolute;bottom:10px;left:10px;
+  background:var(--teal);color:white;padding:4px 12px;border-radius:100px;
+  font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;}
+.doc-body{padding:22px 24px;}
+.doc-name{font-family:'DM Serif Display',serif;font-size:1.2rem;color:var(--navy);margin-bottom:6px;}
+.doc-qual{font-size:.76rem;color:var(--gray);line-height:1.6;margin-bottom:14px;}
+.doc-tags{display:flex;flex-wrap:wrap;gap:6px;}
+.doc-tag{background:var(--teal-pale);color:var(--teal);padding:3px 10px;border-radius:6px;
+  font-size:.7rem;font-weight:600;}
+
+/* ── SERVICES ── */
+.services-sec{background:white;}
+.services-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:22px;margin-top:48px;}
+.svc-card{background:white;border-radius:20px;overflow:hidden;
+  border:1.5px solid var(--gray-light);transition:all .4s;
+  box-shadow:0 2px 12px rgba(10,107,107,.04);}
+.svc-card:hover{transform:translateY(-5px);box-shadow:var(--shadow-lg);border-color:var(--teal);}
+.svc-card.highlight{border-color:var(--gold);position:relative;}
+.svc-card.highlight::before{content:'⭐ MOST POPULAR';
+  position:absolute;top:0;left:50%;transform:translateX(-50%) translateY(-50%);
+  background:linear-gradient(135deg,var(--gold),var(--gold-light));
+  color:white;padding:4px 16px;border-radius:100px;font-size:.62rem;font-weight:700;
+  letter-spacing:.08em;white-space:nowrap;}
+/* Service image — replace src with procedure photos */
+.svc-img{height:170px;overflow:hidden;position:relative;}
+.svc-img img{width:100%;height:100%;object-fit:cover;transition:transform .5s;}
+.svc-card:hover .svc-img img{transform:scale(1.05);}
+.svc-img-ph{height:170px;display:flex;align-items:center;justify-content:center;font-size:3rem;
+  position:relative;}
+.svc-cat{position:absolute;bottom:10px;left:12px;
+  background:rgba(10,107,107,.85);backdrop-filter:blur(8px);
+  color:white;padding:3px 10px;border-radius:100px;font-size:.62rem;letter-spacing:.06em;font-weight:600;}
+.svc-head{padding:20px 22px 14px;border-bottom:1px solid var(--gray-light);}
+.svc-name{font-family:'DM Serif Display',serif;font-size:1.2rem;color:var(--navy);margin-bottom:6px;}
+.svc-tagline{font-size:.8rem;color:var(--gray);line-height:1.6;}
+.svc-price{display:inline-flex;align-items:center;gap:6px;
+  background:var(--teal-pale);color:var(--teal);padding:4px 12px;border-radius:8px;
+  font-size:.78rem;font-weight:700;margin-top:8px;}
+.svc-body{padding:18px 22px 22px;}
+.svc-bens{list-style:none;display:flex;flex-direction:column;gap:7px;margin-bottom:16px;}
+.svc-bens li{display:flex;align-items:flex-start;gap:9px;font-size:.8rem;color:var(--gray);line-height:1.5;}
+.svc-bens li::before{content:'✓';color:var(--teal);font-weight:700;font-size:.75rem;margin-top:2px;flex-shrink:0;}
+.svc-cta{display:flex;gap:8px;}
+.s-wa{flex:1;display:flex;align-items:center;justify-content:center;gap:5px;
+  background:var(--green);color:white;padding:10px;border-radius:10px;font-size:.76rem;font-weight:600;transition:all .2s;}
+.s-wa:hover{background:#20b558;}
+.s-call{flex:0 0 42px;display:flex;align-items:center;justify-content:center;
+  background:var(--navy);color:white;border-radius:10px;font-size:.95rem;transition:all .2s;}
+.s-call:hover{background:var(--teal);}
+
+/* ── PRICING ── */
+.pricing-sec{background:var(--navy);position:relative;overflow:hidden;}
+.pricing-sec::before{content:'';position:absolute;inset:0;opacity:.04;
+  background-image:radial-gradient(circle,white 1px,transparent 1px);background-size:32px 32px;}
+.pricing-sec::after{content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse 60% 50% at 50% 50%,rgba(10,107,107,.2),transparent);}
+.pricing-inner{position:relative;z-index:2;}
+.pricing-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px;margin-top:48px;}
+.pc{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
+  border-radius:20px;overflow:hidden;transition:all .4s;}
+.pc:hover{border-color:rgba(10,220,220,.3);background:rgba(10,107,107,.1);}
+.pc-head{padding:22px 24px 16px;border-bottom:1px solid rgba(255,255,255,.08);
+  display:flex;align-items:center;gap:12px;}
+.pc-icon{font-size:1.6rem;}
+.pc-title{font-family:'DM Serif Display',serif;font-size:1.15rem;color:white;}
+.pc-sub{font-size:.7rem;color:rgba(255,255,255,.4);margin-top:2px;}
+.pc-rows{padding:14px 0;}
+.pr{display:flex;align-items:center;justify-content:space-between;
+  padding:10px 24px;transition:background .2s;}
+.pr:hover{background:rgba(10,107,107,.15);}
+.pr+.pr{border-top:1px solid rgba(255,255,255,.05);}
+.pr-name{font-size:.83rem;color:rgba(255,255,255,.72);flex:1;padding-right:12px;line-height:1.4;}
+.pr-val{font-family:'DM Serif Display',serif;font-size:1rem;color:#7de8e8;white-space:nowrap;}
+.pr-note{font-size:.68rem;color:rgba(255,255,255,.35);display:block;}
+.pc-cta{padding:16px 24px;border-top:1px solid rgba(255,255,255,.08);}
+.pc-btn{display:flex;align-items:center;justify-content:center;gap:6px;
+  background:var(--teal);color:white;padding:10px;border-radius:10px;
+  font-size:.76rem;font-weight:600;transition:all .2s;}
+.pc-btn:hover{background:var(--teal-light);}
+
+/* ── PROCESS ── */
+.process-sec{background:var(--mint);}
+.process-steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:0;margin-top:52px;position:relative;}
+.process-steps::before{content:'';position:absolute;top:28px;left:8%;right:8%;
+  height:2px;background:linear-gradient(90deg,transparent,var(--teal),transparent);opacity:.2;border-radius:1px;}
+.ps{text-align:center;padding:0 20px;}
+.ps-num{width:56px;height:56px;border-radius:50%;background:var(--teal);color:white;
+  display:flex;align-items:center;justify-content:center;
+  font-family:'DM Serif Display',serif;font-size:1.3rem;margin:0 auto 20px;
+  box-shadow:0 4px 16px rgba(10,107,107,.3);}
+.ps-title{font-family:'DM Serif Display',serif;font-size:1.05rem;color:var(--navy);margin-bottom:8px;}
+.ps-desc{font-size:.8rem;color:var(--gray);line-height:1.7;}
+
+/* ── OFFERS ── */
+.offers-sec{background:linear-gradient(135deg,var(--gold-pale),#fef9e8);}
+.offers-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:22px;margin-top:48px;}
+.oc{background:white;border-radius:20px;border:1.5px solid rgba(184,150,62,.25);
+  padding:28px;text-align:center;transition:all .4s;position:relative;overflow:hidden;
+  box-shadow:0 2px 16px rgba(184,150,62,.08);}
+.oc::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;
+  background:linear-gradient(90deg,var(--gold),var(--gold-light));}
+.oc:hover{transform:translateY(-5px);box-shadow:0 12px 36px rgba(184,150,62,.18);border-color:var(--gold);}
+.oc-ico{font-size:2.4rem;margin-bottom:12px;}
+.oc-badge{display:inline-block;background:var(--teal);color:white;
+  padding:3px 12px;border-radius:100px;font-size:.63rem;font-weight:700;letter-spacing:.08em;
+  text-transform:uppercase;margin-bottom:10px;}
+.oc-name{font-family:'DM Serif Display',serif;font-size:1.2rem;color:var(--navy);margin-bottom:6px;}
+.oc-was{font-size:.74rem;color:var(--gray);text-decoration:line-through;margin-bottom:3px;}
+.oc-price{font-family:'DM Serif Display',serif;font-size:2rem;color:var(--teal);margin-bottom:6px;}
+.oc-note{font-size:.74rem;color:var(--gray);margin-bottom:16px;}
+.cd-row{display:flex;gap:5px;justify-content:center;margin-bottom:16px;}
+.cdu{background:var(--navy);border-radius:8px;padding:6px 10px;min-width:44px;text-align:center;}
+.cdn{font-family:'DM Serif Display',serif;font-size:1rem;color:#7de8e8;display:block;line-height:1;}
+.cdl{font-size:.52rem;color:rgba(255,255,255,.4);letter-spacing:.06em;}
+.cds{color:var(--teal);font-size:1.2rem;align-self:center;padding-bottom:6px;}
+
+/* ── BEFORE AFTER ── */
+.ba-sec{background:white;}
+.ba-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:20px;margin-top:48px;}
+.ba-card{border-radius:16px;overflow:hidden;border:1px solid var(--gray-light);transition:all .3s;box-shadow:0 2px 12px rgba(10,107,107,.05);}
+.ba-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color:var(--teal);}
+/* Replace with result photos */
+.ba-img{height:140px;overflow:hidden;position:relative;}
+.ba-img img{width:100%;height:100%;object-fit:cover;}
+.ba-img-ph{height:140px;display:flex;align-items:center;justify-content:center;font-size:2.6rem;}
+.ba-body{padding:14px 16px;background:white;}
+.ba-title{font-family:'DM Serif Display',serif;font-size:1rem;color:var(--navy);margin-bottom:4px;}
+.ba-info{font-size:.74rem;color:var(--gray);}
+.ba-info span{color:var(--teal);font-weight:600;}
+
+/* ── REVIEWS ── */
+.reviews-sec{background:var(--mint);}
+.rev-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;margin-top:48px;}
+.rev-card{background:white;border-radius:16px;padding:24px;
+  border:1px solid var(--gray-light);transition:all .3s;box-shadow:0 2px 10px rgba(10,107,107,.04);}
+.rev-card:hover{box-shadow:var(--shadow);transform:translateY(-3px);border-color:var(--teal);}
+.rev-stars{color:var(--gold);font-size:.95rem;margin-bottom:12px;letter-spacing:2px;}
+.rev-text{font-size:.86rem;color:var(--gray);line-height:1.8;margin-bottom:16px;font-style:italic;}
+.rev-author{display:flex;align-items:center;gap:10px;}
+.ra{width:38px;height:38px;border-radius:50%;background:var(--teal-pale);
+  border:1.5px solid var(--teal);display:flex;align-items:center;justify-content:center;
+  font-family:'DM Serif Display',serif;font-size:.9rem;color:var(--teal);}
+.ra-name{font-size:.84rem;color:var(--navy);font-weight:600;}
+.ra-treat{font-size:.7rem;color:var(--gray);}
+.ra-g{margin-left:auto;background:var(--off);border:1px solid var(--gray-light);
+  border-radius:6px;padding:3px 7px;font-size:.58rem;color:var(--gray);letter-spacing:.05em;}
+
+/* ── FAQ ── */
+.faq-sec{background:white;}
+.faq-list{max-width:740px;margin:48px auto 0;display:flex;flex-direction:column;gap:10px;}
+.faq-item{background:var(--off);border-radius:14px;border:1.5px solid var(--gray-light);overflow:hidden;transition:border-color .2s;}
+.faq-item.open{border-color:var(--teal);}
+.faq-q{padding:18px 22px;display:flex;align-items:center;justify-content:space-between;
+  cursor:pointer;font-weight:600;font-size:.9rem;color:var(--text);gap:12px;}
+.faq-q:hover{color:var(--teal);}
+.faq-arr{color:var(--teal);font-size:1.3rem;transition:transform .3s;flex-shrink:0;}
+.faq-item.open .faq-arr{transform:rotate(45deg);}
+.faq-a{max-height:0;overflow:hidden;transition:max-height .4s ease;padding:0 22px;
+  font-size:.86rem;color:var(--gray);line-height:1.8;background:white;}
+.faq-item.open .faq-a{max-height:200px;padding:0 22px 18px;}
+
+/* ── BOOK CTA ── */
+.book-sec{background:linear-gradient(135deg,var(--navy),var(--navy-mid));
+  padding:80px 5%;text-align:center;position:relative;overflow:hidden;}
+.book-sec::before{content:'';position:absolute;inset:0;opacity:.04;
+  background-image:radial-gradient(circle,white 1px,transparent 1px);background-size:32px 32px;}
+.book-sec::after{content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse 60% 60% at 50% 50%,rgba(10,107,107,.2),transparent);}
+.book-inner{position:relative;z-index:2;}
+.book-sec h2{font-family:'DM Serif Display',serif;font-size:clamp(2rem,4.5vw,3.6rem);
+  color:white;margin-bottom:14px;}
+.book-sec h2 em{font-style:italic;color:#7de8e8;}
+.book-sec p{font-size:.97rem;color:rgba(255,255,255,.55);margin-bottom:32px;max-width:480px;margin-left:auto;margin-right:auto;}
+.book-ctas{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;}
+.urgency-note{margin-top:18px;font-size:.76rem;color:rgba(255,255,255,.3);}
+.urgency-note span{color:#7de8e8;}
+
+/* ── MAP ── */
+.map-sec{background:var(--off);padding:80px 5%;}
+.map-wrap{border-radius:20px;overflow:hidden;box-shadow:var(--shadow-lg);margin-top:32px;}
+.map-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(195px,1fr));gap:16px;margin-top:22px;}
+.mc{background:white;border-radius:14px;padding:18px;display:flex;align-items:center;gap:12px;
+  border:1px solid var(--gray-light);box-shadow:0 2px 10px rgba(10,107,107,.04);}
+.mc-ico{font-size:1.3rem;flex-shrink:0;}
+.mc p{font-size:.79rem;color:var(--gray);line-height:1.6;}
+.mc strong{color:var(--text);font-size:.82rem;display:block;margin-bottom:2px;}
+
+/* ── BACK BAR ── */
+.back-bar{background:var(--navy);border-top:1px solid rgba(255,255,255,.08);
+  padding:16px 5%;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;}
+.back-btn{display:flex;align-items:center;gap:8px;color:#7de8e8;font-size:.82rem;font-weight:600;letter-spacing:.04em;transition:color .2s;}
+.back-btn:hover{color:white;}
+.back-info{font-size:.74rem;color:rgba(255,255,255,.3);}
+
+/* ── FOOTER ── */
+.footer{background:var(--navy);padding:52px 5% 28px;border-top:1px solid rgba(255,255,255,.06);}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1.5fr;gap:36px;margin-bottom:36px;}
+.footer-brand p{font-size:.82rem;color:rgba(255,255,255,.5);line-height:1.7;margin-top:14px;}
+.footer-col h4{font-family:'DM Serif Display',serif;font-size:.97rem;color:white;margin-bottom:14px;}
+.footer-col ul{list-style:none;display:flex;flex-direction:column;gap:8px;}
+.footer-col ul li a{color:rgba(255,255,255,.5);font-size:.82rem;transition:color .2s;}
+.footer-col ul li a:hover{color:#7de8e8;}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:18px;text-align:center;}
+.footer-bottom p{font-size:.72rem;color:rgba(255,255,255,.3);}
+.footer-bottom a{color:#7de8e8;}
+
+/* ── STICKY ── */
+.sticky{position:fixed;bottom:24px;right:24px;z-index:9999;
+  display:flex;flex-direction:column;gap:10px;align-items:flex-end;}
+.sb{background:white;border-radius:14px;padding:12px 16px;
+  box-shadow:0 4px 20px rgba(10,107,107,.2);font-size:.76rem;color:var(--text);
+  max-width:190px;line-height:1.5;display:none;border:1px solid var(--gray-light);}
+.sb strong{color:var(--green);display:block;font-size:.8rem;margin-bottom:2px;}
+.sw{display:flex;align-items:center;gap:8px;background:var(--green);color:white;
+  padding:13px 18px;border-radius:100px;font-weight:700;font-size:.88rem;
+  box-shadow:0 4px 18px rgba(37,211,102,.35);animation:pgr 2.5s infinite;}
+.sc{display:flex;align-items:center;gap:7px;background:var(--navy);color:white;
+  padding:10px 16px;border-radius:100px;font-weight:600;font-size:.8rem;
+  box-shadow:0 4px 14px rgba(10,22,40,.3);}
+
+/* ── ANIMATE ── */
+.fi{opacity:0;transform:translateY(16px);transition:opacity .5s ease,transform .5s ease;}
+.fi.vis{opacity:1;transform:translateY(0);}
+
+/* ── RESPONSIVE ── */
+@media(max-width:960px){
+  .hero-inner{grid-template-columns:1fr;}
+  .hero-card{display:none;}
+  .docs-grid{grid-template-columns:1fr;}
+  .footer-grid{grid-template-columns:1fr;gap:24px;}
+  .hero{margin-top:76px;}
+}
+@media(max-width:768px){
+  .nav{top:38px;padding:0 4%;height:62px;}
+  .nav-links{display:none;}
+  .nav.scrolled{top:0;}
+  section{padding:56px 4%;}
+  .hero h1{font-size:2.4rem;}
+  .trust-item{padding:6px 14px;}
+  .process-steps::before{display:none;}
+}
+@media(max-width:480px){
+  .hero-ctas{flex-direction:column;}
+  .book-ctas{flex-direction:column;align-items:center;}
+}
+</style>
+</head>
+<body>
+
+<!-- TICKER -->
+<div class="ticker">
+  <div class="ticker-track">
+    <span class="ti">🦷 Dental Implants — From Rs. 80,000 · Natural Look & Feel <span class="ts">|</span></span>
+    <span class="ti">😁 Braces — Rs. 35,000 Upfront · Easy Installments Available <span class="ts">|</span></span>
+    <span class="ti">🔬 Root Canal — Same Day Treatment Available <span class="ts">|</span></span>
+    <span class="ti">👑 Crowns & Bridges — Best Quality at Affordable Prices <span class="ts">|</span></span>
+    <span class="ti">⭐ FCPS Orthodontist & UK-Trained Oral Surgeon On Staff <span class="ts">|</span></span>
+    <span class="ti">📍 Jinnah Garden Islamabad · Near DHA, Bahria Town & PWD <span class="ts">|</span></span>
+    <span class="ti">🦷 Dental Implants — From Rs. 80,000 · Natural Look & Feel <span class="ts">|</span></span>
+    <span class="ti">😁 Braces — Rs. 35,000 Upfront · Easy Installments Available <span class="ts">|</span></span>
+    <span class="ti">🔬 Root Canal — Same Day Treatment Available <span class="ts">|</span></span>
+    <span class="ti">👑 Crowns & Bridges — Best Quality at Affordable Prices <span class="ts">|</span></span>
+    <span class="ti">⭐ FCPS Orthodontist & UK-Trained Oral Surgeon On Staff <span class="ts">|</span></span>
+    <span class="ti">📍 Jinnah Garden Islamabad · Near DHA, Bahria Town & PWD <span class="ts">|</span></span>
+  </div>
+</div>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <a href="index.html" class="logo-wrap">
+    <div class="logo-icon">FZ</div>
+    <div>
+      <span class="logo-name">FZ Dental Clinic</span>
+      <span class="logo-sub">Jinnah Garden · Islamabad</span>
+    </div>
+  </a>
+  <div class="nav-links">
+    <a href="#services">Services</a>
+    <a href="#pricing">Prices</a>
+    <a href="#team">Doctors</a>
+    <a href="#reviews">Reviews</a>
+    <a href="#location">Location</a>
+  </div>
+  <div class="nav-right">
+    <a href="index.html" class="nav-back">← Main Hospital</a>
+    <a href="https://wa.me/923111529680?text=I%20want%20to%20book%20a%20Dental%20appointment%20at%20FZ%20Hospital" class="nav-cta" target="_blank">Book Appointment</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="home">
+  <div class="hero-dots"></div>
+  <div class="hero-glow"></div>
+  <div class="hero-arc"></div>
+  <div class="hero-arc2"></div>
+  <div class="hero-inner">
+    <div>
+      <div class="hero-badge"><span class="badge-dot"></span>Best Dental Clinic in Jinnah Garden</div>
+      <h1>Your Perfect<br><em>Smile</em> Starts<br>Here</h1>
+      <p class="hero-desc">Premium dental care by FCPS Orthodontist and UK-trained Oral Surgeon at FZ International Hospital, Jinnah Garden, Islamabad. Affordable prices, expert hands, lasting results.</p>
+      <div class="hero-feats">
+        <div class="hf"><div class="hf-check">✓</div>Dental Implants from Rs. 80,000 — Permanent, natural-looking teeth</div>
+        <div class="hf"><div class="hf-check">✓</div>Braces Rs. 35,000 — FCPS Orthodontist, easy installment plans</div>
+        <div class="hf"><div class="hf-check">✓</div>Root Canal, Crowns, Bridges — Same-day treatment available</div>
+        <div class="hf"><div class="hf-check">✓</div>UK-trained Oral & Maxillofacial Surgeon on staff</div>
+      </div>
+      <div class="hero-ctas">
+        <a href="https://wa.me/923111529680?text=I%20want%20to%20book%20a%20Dental%20appointment%20at%20FZ%20Hospital" class="btn-wa" target="_blank">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+          WhatsApp Appointment
+        </a>
+        <a href="tel:05144930311" class="btn-teal">📞 051-4493031</a>
+        <a href="#pricing" class="btn-outline-w">View Prices</a>
+      </div>
+      <div class="hero-urgency"><span class="blink">🔴</span> Limited slots today · Instant WhatsApp response</div>
+    </div>
+    <div class="hero-card">
+      <!-- Replace: images/dental-room.jpg — show dental chair, procedure room -->
+      <div class="hc-img">
+        <img src="images/dental-room.jpg" alt="FZ Dental Clinic procedure room Islamabad"
+          onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+        <div class="hc-img-ph" style="display:none;">
+          <div class="hc-img-ph-icon">🦷</div>
+          <div class="hc-img-ph-text">FZ Dental Clinic</div>
+        </div>
+        <div class="hc-float">
+          <div class="hcf-title">FZ International Hospital — Dental Department</div>
+          <div class="hcf-sub">204 Street Shaheen Commercial · Jinnah Garden, Islamabad</div>
+        </div>
+      </div>
+      <div class="hc-stats">
+        <div class="hcs"><div class="hcs-num">3</div><div class="hcs-lbl">Specialists</div></div>
+        <div class="hcs"><div class="hcs-num">4.7★</div><div class="hcs-lbl">Google</div></div>
+        <div class="hcs"><div class="hcs-num">FCPS</div><div class="hcs-lbl">Certified</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-item"><span class="trust-icon">🏅</span><div class="trust-txt"><strong>IHRA Registered</strong>Govt. Recognized</div></div>
+  <div class="trust-item"><span class="trust-icon">👩‍⚕️</span><div class="trust-txt"><strong>FCPS Orthodontist</strong>Board Certified</div></div>
+  <div class="trust-item"><span class="trust-icon">🇬🇧</span><div class="trust-txt"><strong>UK-Trained Surgeon</strong>MJDF, MDS OMFS</div></div>
+  <div class="trust-item"><span class="trust-icon">💰</span><div class="trust-txt"><strong>Transparent Pricing</strong>No Hidden Costs</div></div>
+  <div class="trust-item"><span class="trust-icon">⚡</span><div class="trust-txt"><strong>Same Day</strong>Treatment Available</div></div>
+</div>
+
+<!-- TEAM -->
+<section class="doctors-sec" id="team">
+  <div class="eyebrow">Meet Your Dentists</div>
+  <h2 class="sec-title">Expert <em>Dental</em> Specialists</h2>
+  <p class="sec-sub">Our dental team combines local FCPS expertise with international UK training — delivering world-class dental care in Islamabad.</p>
+  <div class="docs-grid">
+    <div class="doc-card fi">
+      <!-- Replace: images/dr-ahwaz.jpg -->
+      <div class="doc-photo">
+        <img src="images/dr-ahwaz.jpg" alt="Dr. Ahwaz Sadeque Oral Surgeon Islamabad" onerror="this.parentNode.innerHTML='<div class=\'doc-photo-ph\'><div class=\'doc-initial-big\'>AS</div><div class=\'doc-spec-badge\'>Lead Oral Surgeon</div></div>'">
+        <div class="doc-spec-badge">Lead Oral Surgeon</div>
+      </div>
+      <div class="doc-body">
+        <div class="doc-name">Dr. Ahwaz Sadeque</div>
+        <div class="doc-qual">BDS · RDS · MJDF (UK) · MDS OMFS (R)<br>Oral & Maxillofacial Surgeon<br>UK-trained with Royal College of Surgeons qualifications</div>
+        <div class="doc-tags">
+          <span class="doc-tag">Dental Implants</span>
+          <span class="doc-tag">Oral Surgery</span>
+          <span class="doc-tag">Full Mouth Rehab</span>
+          <span class="doc-tag">Extractions</span>
+        </div>
+      </div>
+    </div>
+    <div class="doc-card fi">
+      <!-- Replace: images/dr-tooba.jpg -->
+      <div class="doc-photo">
+        <img src="images/dr-tooba.jpg" alt="Dr. Tooba Zahoor Mirza Orthodontist Islamabad" onerror="this.parentNode.innerHTML='<div class=\'doc-photo-ph\'><div class=\'doc-initial-big\'>TZ</div><div class=\'doc-spec-badge\'>Orthodontist</div></div>'">
+        <div class="doc-spec-badge">Orthodontist</div>
+      </div>
+      <div class="doc-body">
+        <div class="doc-name">Dr. Tooba Zahoor Mirza</div>
+        <div class="doc-qual">BDS · (FCPS) Orthodontics<br>FCPS-Qualified Orthodontist<br>Specialist in braces, aligners, and smile correction</div>
+        <div class="doc-tags">
+          <span class="doc-tag">Braces</span>
+          <span class="doc-tag">Invisible Aligners</span>
+          <span class="doc-tag">Smile Design</span>
+          <span class="doc-tag">Bite Correction</span>
+        </div>
+      </div>
+    </div>
+    <div class="doc-card fi">
+      <!-- Replace: images/dr-aiman.jpg -->
+      <div class="doc-photo">
+        <img src="images/dr-aiman.jpg" alt="Dr. Aiman Ejaz Dentist Islamabad" onerror="this.parentNode.innerHTML='<div class=\'doc-photo-ph\'><div class=\'doc-initial-big\'>AE</div><div class=\'doc-spec-badge\'>General Dentist</div></div>'">
+        <div class="doc-spec-badge">General Dentist</div>
+      </div>
+      <div class="doc-body">
+        <div class="doc-name">Dr. Aiman Ejaz</div>
+        <div class="doc-qual">BDS · RDS<br>General & Restorative Dentist<br>Specialist in root canals, fillings, crowns & cosmetic dentistry</div>
+        <div class="doc-tags">
+          <span class="doc-tag">Root Canal</span>
+          <span class="doc-tag">Crowns & Bridges</span>
+          <span class="doc-tag">Fillings</span>
+          <span class="doc-tag">Whitening</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section class="services-sec" id="services">
+  <div class="eyebrow">Our Treatments</div>
+  <h2 class="sec-title">Comprehensive <em>Dental</em> Services</h2>
+  <p class="sec-sub">From your child's first checkup to full-mouth rehabilitation — complete dental care under one roof in Islamabad.</p>
+  <div class="services-grid">
+
+    <!-- Implants - HIGHLIGHT -->
+    <div class="svc-card highlight fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#e8f0f5,#d0e4f0);">
+        <!-- Replace: images/dental-implant-procedure.jpg — show implant model/x-ray/titanium post -->
+        <img src="images/dental-implant.jpg" alt="Dental implant procedure Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#e8f0f5,#d0e4f0)\'>🦷<div class=\'svc-cat\'>Dental Implants</div></div>'">
+        <div class="svc-cat">Dental Implants</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">Dental Implants</div>
+        <div class="svc-tagline">Permanent tooth replacement that looks, feels, and functions exactly like your natural teeth.</div>
+        <div class="svc-price">From Rs. 80,000</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Titanium implant fused with jawbone — permanent solution that lasts a lifetime</li>
+          <li>Looks and feels like a real tooth — no one can tell the difference</li>
+          <li>Preserves jawbone density and prevents facial sagging after tooth loss</li>
+          <li>No removal needed — brush and floss like your natural teeth</li>
+          <li>Performed by UK-trained Oral Surgeon (MJDF, MDS OMFS)</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20want%20Dental%20Implant%20consultation%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Free Consultation</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Braces -->
+    <div class="svc-card fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#e8f5ee,#d0ece0);">
+        <!-- Replace: images/braces-orthodontic.jpg — close up of braces on teeth -->
+        <img src="images/braces.jpg" alt="Dental braces orthodontist Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#e8f5ee,#d0ece0)\'>😁<div class=\'svc-cat\'>Braces & Aligners</div></div>'">
+        <div class="svc-cat">Braces & Aligners</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">Braces & Aligners</div>
+        <div class="svc-tagline">Straighten your teeth and transform your smile with our FCPS Orthodontist — flexible payment options available.</div>
+        <div class="svc-price">From Rs. 35,000</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Traditional metal braces from Rs. 35,000 — pay upfront with monthly installments</li>
+          <li>Invisible clear aligners from Rs. 80,000 — discreet, removable, comfortable</li>
+          <li>Invincible (lingual) braces from Rs. 150,000 — hidden behind your teeth</li>
+          <li>FCPS-certified Orthodontist with expertise in complex bite correction cases</li>
+          <li>Braces consultation Rs. 1,500 · Monthly adjustments Rs. 3,000–5,000</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20want%20Braces%20consultation%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Book Consultation</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Root Canal -->
+    <div class="svc-card fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#f5e8e8,#f0d0d0);">
+        <!-- Replace: images/root-canal.jpg — show dental instrument/x-ray, no patient face -->
+        <img src="images/root-canal.jpg" alt="Root canal treatment Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#f5e8e8,#f0d0d0)\'>🔬<div class=\'svc-cat\'>Root Canal</div></div>'">
+        <div class="svc-cat">Root Canal</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">Root Canal Treatment</div>
+        <div class="svc-tagline">Save your natural tooth and eliminate pain permanently with modern, comfortable root canal therapy.</div>
+        <div class="svc-price">Ask Price</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Modern techniques make root canal virtually painless with local anesthesia</li>
+          <li>Saves your natural tooth — always better than extraction when possible</li>
+          <li>Eliminates tooth infection and stops it from spreading to surrounding teeth</li>
+          <li>Single or multiple visit treatment based on severity of infection</li>
+          <li>Followed by crown placement for complete tooth protection and aesthetics</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20need%20Root%20Canal%20treatment%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Book Now</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Crowns & Bridges -->
+    <div class="svc-card fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#f0ece8,#e8d8c8);">
+        <!-- Replace: images/dental-crown.jpg — show crown model or bridge on model -->
+        <img src="images/dental-crown.jpg" alt="Dental crown and bridge Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#f0ece8,#e8d8c8)\'>👑<div class=\'svc-cat\'>Crowns & Bridges</div></div>'">
+        <div class="svc-cat">Crowns & Bridges</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">Crowns & Bridges</div>
+        <div class="svc-tagline">Restore damaged or missing teeth with precision-crafted porcelain crowns and fixed bridges.</div>
+        <div class="svc-price">Ask Price</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Porcelain crowns match exact color and shape of your natural teeth perfectly</li>
+          <li>Fixed bridges replace missing teeth without surgery — no implant needed</li>
+          <li>Protects weakened teeth after root canal or large filling treatment</li>
+          <li>Restores full chewing function and prevents bite alignment problems</li>
+          <li>Long-lasting with proper care — typically 10–15 years or more</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20need%20Crown%20or%20Bridge%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Book Now</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Full Mouth Rehab -->
+    <div class="svc-card fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#e8f0e8,#d0e8d0);">
+        <!-- Replace: images/smile-makeover.jpg — before/after smile or dental models -->
+        <img src="images/smile-makeover.jpg" alt="Full mouth rehabilitation Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#e8f0e8,#d0e8d0)\'>✨<div class=\'svc-cat\'>Smile Makeover</div></div>'">
+        <div class="svc-cat">Smile Makeover</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">Full Mouth Rehabilitation</div>
+        <div class="svc-tagline">Transform your entire smile with a comprehensive treatment plan combining multiple procedures for dramatic results.</div>
+        <div class="svc-price">Customized</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Complete smile assessment with X-rays, digital photos, and treatment planning</li>
+          <li>Combination of implants, crowns, veneers, and whitening for total transformation</li>
+          <li>Addresses both aesthetic concerns and functional bite problems simultaneously</li>
+          <li>Staged treatment plan to fit your timeline and budget requirements</li>
+          <li>UK-trained surgeon and FCPS Orthodontist collaborate on complex cases</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20want%20Full%20Mouth%20Rehabilitation%20consultation%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Free Consultation</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- General Dentistry -->
+    <div class="svc-card fi">
+      <div class="svc-img" style="background:linear-gradient(135deg,#e8e8f5,#d8d8f0);">
+        <!-- Replace: images/general-dentistry.jpg — dental checkup tools layout -->
+        <img src="images/general-dental.jpg" alt="General dentistry Islamabad"
+          onerror="this.parentNode.innerHTML='<div class=\'svc-img-ph\' style=\'background:linear-gradient(135deg,#e8e8f5,#d8d8f0)\'>🏥<div class=\'svc-cat\'>General Dentistry</div></div>'">
+        <div class="svc-cat">General Dentistry</div>
+      </div>
+      <div class="svc-head">
+        <div class="svc-name">General & Preventive Dentistry</div>
+        <div class="svc-tagline">Complete routine dental care from fillings and cleanings to extractions and whitening — for the whole family.</div>
+        <div class="svc-price">From Rs. 1,500</div>
+      </div>
+      <div class="svc-body">
+        <ul class="svc-bens">
+          <li>Dental consultation and X-ray diagnosis for accurate treatment planning</li>
+          <li>Tooth fillings using tooth-colored composite resin for invisible results</li>
+          <li>Professional scaling and polishing to remove plaque and tartar buildup</li>
+          <li>Tooth whitening for a brighter, more confident smile</li>
+          <li>Pediatric dentistry — gentle and friendly care for children of all ages</li>
+        </ul>
+        <div class="svc-cta">
+          <a href="https://wa.me/923111529680?text=I%20need%20General%20Dentistry%20at%20FZ%20Hospital" class="s-wa" target="_blank">💬 Book Now</a>
+          <a href="tel:05144930311" class="s-call">📞</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- PRICING -->
+<section class="pricing-sec" id="pricing">
+  <div class="pricing-inner">
+    <div class="eyebrow" style="color:#7de8e8;">Transparent Pricing</div>
+    <h2 class="sec-title" style="color:white;">Complete Dental <em>Price List</em></h2>
+    <p class="sec-sub" style="color:rgba(255,255,255,.5);">Full upfront pricing — no hidden charges, no surprises. Islamabad's most transparent dental clinic. Customized plans available after consultation.</p>
+
+    <div class="pricing-grid">
+
+      <!-- General & Preventive -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">🧹</span><div><div class="pc-title">General & Preventive</div><div class="pc-sub">Routine care for the whole family</div></div></div>
+        <div class="pc-rows">
+          <div class="pr"><span class="pr-name">Scaling &amp; Polishing</span><span class="pr-val">Rs. 5,000</span></div>
+          <div class="pr">
+            <span class="pr-name">Teeth Whitening (Full Mouth)<span class="pr-note">Scaling included</span></span>
+            <span class="pr-val">Rs. 19,999</span>
+          </div>
+          <div class="pr"><span class="pr-name">Composite Filling (Per Tooth)</span><span class="pr-val">Rs. 4,999</span></div>
+          <div class="pr">
+            <span class="pr-name">Extraction (Per Tooth)<span class="pr-note">Simple to surgical</span></span>
+            <span class="pr-val">Rs. 1,500–25,000</span>
+          </div>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20need%20General%20Dental%20appointment%20at%20FZ%20Hospital" class="pc-btn">💬 Book Appointment</a></div>
+      </div>
+
+      <!-- Crowns & Restorations -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">👑</span><div><div class="pc-title">Crowns & Restorations</div><div class="pc-sub">Per tooth pricing</div></div></div>
+        <div class="pc-rows">
+          <div class="pr"><span class="pr-name">PFM CAD/CAM Crown (Per Tooth)</span><span class="pr-val">Rs. 6,999</span></div>
+          <div class="pr"><span class="pr-name">PFM Vita Crown (Per Tooth)</span><span class="pr-val">Rs. 7,999</span></div>
+          <div class="pr"><span class="pr-name">Zirconia Crown (Per Tooth)</span><span class="pr-val">Rs. 19,999</span></div>
+          <div class="pr"><span class="pr-name">Veneer (Per Tooth)</span><span class="pr-val">Rs. 20,000</span></div>
+          <div class="pr"><span class="pr-name">Bridge (Per Tooth/Unit)</span><span class="pr-val">Rs. 8,000</span></div>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20need%20Crown%20or%20Veneer%20at%20FZ%20Hospital" class="pc-btn">💬 Book Crown Consult</a></div>
+      </div>
+
+      <!-- Root Canal -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">🔬</span><div><div class="pc-title">Root Canal Treatment</div><div class="pc-sub">Save your natural tooth</div></div></div>
+        <div class="pc-rows">
+          <div class="pr">
+            <span class="pr-name">Root Canal (Per Tooth)<span class="pr-note">Single or multi-visit</span></span>
+            <span class="pr-val">Rs. 9,999</span>
+          </div>
+          <div class="pr" style="background:rgba(125,232,232,.06);">
+            <span class="pr-name" style="color:rgba(255,255,255,.9);font-weight:500;">Root Canal + Crown Package<span class="pr-note">Best value — complete protection</span></span>
+            <span class="pr-val" style="color:#7de8e8;">Ask Price</span>
+          </div>
+        </div>
+        <div style="padding:16px 24px 12px;">
+          <p style="font-size:.76rem;color:rgba(125,232,232,.7);line-height:1.6;">✓ Modern pain-free technique · Local anesthesia · Same-day available</p>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20need%20Root%20Canal%20at%20FZ%20Hospital" class="pc-btn">💬 Book Root Canal</a></div>
+      </div>
+
+      <!-- Implants -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">🦷</span><div><div class="pc-title">Dental Implants</div><div class="pc-sub">UK-trained Oral Surgeon</div></div></div>
+        <div class="pc-rows">
+          <div class="pr" style="background:rgba(125,232,232,.05);">
+            <span class="pr-name" style="color:rgba(255,255,255,.9);font-weight:500;">Dental Implant (Per Tooth)<span class="pr-note">Titanium implant · Permanent solution</span></span>
+            <span class="pr-val" style="font-size:1.1rem;">Rs. 80,000–250,000</span>
+          </div>
+          <div class="pr"><span class="pr-name">Full Mouth Rehabilitation</span><span class="pr-val">Customized</span></div>
+        </div>
+        <div style="padding:16px 24px 12px;">
+          <p style="font-size:.76rem;color:rgba(125,232,232,.7);line-height:1.6;">✓ MJDF &amp; MDS OMFS (UK) qualified surgeon · Lifetime solution · Customized plans after consultation</p>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20want%20Dental%20Implant%20consultation%20at%20FZ%20Hospital" class="pc-btn">💬 Book Implant Consult</a></div>
+      </div>
+
+      <!-- Braces -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">😁</span><div><div class="pc-title">Braces &amp; Orthodontics</div><div class="pc-sub">FCPS Orthodontist · Dr. Tooba</div></div></div>
+        <div class="pc-rows">
+          <div class="pr"><span class="pr-name">Braces Consultation</span><span class="pr-val">Rs. 1,500</span></div>
+          <div class="pr">
+            <span class="pr-name">Metal Braces (Full Treatment)<span class="pr-note">Initial charge · remaining on installments</span></span>
+            <span class="pr-val">Rs. 35,000</span>
+          </div>
+          <div class="pr"><span class="pr-name">Clear Aligners</span><span class="pr-val">From Rs. 80,000</span></div>
+          <div class="pr"><span class="pr-name">Invisible / Lingual Braces</span><span class="pr-val">From Rs. 150,000</span></div>
+          <div class="pr"><span class="pr-name">Monthly Adjustments</span><span class="pr-val">Rs. 3,000–5,000</span></div>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20want%20Braces%20consultation%20at%20FZ%20Hospital" class="pc-btn">💬 Book Orthodontic Consult</a></div>
+      </div>
+
+      <!-- Dentures -->
+      <div class="pc fi">
+        <div class="pc-head"><span class="pc-icon">🦷</span><div><div class="pc-title">Dentures &amp; Prosthetics</div><div class="pc-sub">Removable &amp; complete solutions</div></div></div>
+        <div class="pc-rows">
+          <div class="pr"><span class="pr-name">Removable Denture (Per Tooth)</span><span class="pr-val">Rs. 2,800</span></div>
+          <div class="pr">
+            <span class="pr-name">Complete Denture — Simple<span class="pr-note">Upper + Lower</span></span>
+            <span class="pr-val">Rs. 45,000</span>
+          </div>
+          <div class="pr">
+            <span class="pr-name">Complete Denture — Monoplast<span class="pr-note">Upper + Lower · Premium quality</span></span>
+            <span class="pr-val">Rs. 60,000</span>
+          </div>
+        </div>
+        <div style="padding:16px 24px 12px;">
+          <p style="font-size:.76rem;color:rgba(125,232,232,.7);line-height:1.6;">✓ Customized plans available after consultation</p>
+        </div>
+        <div class="pc-cta"><a href="https://wa.me/923111529680?text=I%20need%20Denture%20consultation%20at%20FZ%20Hospital" class="pc-btn">💬 Book Denture Consult</a></div>
+      </div>
+
+    </div>
+
+    <!-- Complete price table for SEO + clarity -->
+    <div style="margin-top:36px;background:rgba(255,255,255,.03);border:1px solid rgba(125,232,232,.15);border-radius:20px;overflow:hidden;">
+      <div style="padding:20px 28px 14px;border-bottom:1px solid rgba(125,232,232,.1);">
+        <h3 style="font-family:'DM Serif Display',serif;font-size:1.3rem;color:white;font-weight:400;">📋 Complete Rate Card — At a Glance</h3>
+        <p style="font-size:.76rem;color:rgba(255,255,255,.4);margin-top:4px;">All prices per tooth / per unit unless stated otherwise</p>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;">
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Scaling &amp; Polishing</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 5,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Teeth Whitening (Full Mouth)</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 19,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Composite Filling</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 4,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Veneer (Per Tooth)</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 20,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Root Canal</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 9,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Dental Implants</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 80,000–250,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Braces (Initial)</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 35,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">PFM CAD/CAM Crown</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 6,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">PFM Vita Crown</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 7,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Zirconia Crown</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 19,999</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Bridge (Per Unit)</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 8,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Extractions</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 1,500–25,000</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Removable Denture (Per Tooth)</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 2,800</span>
+        </div>
+        <div style="padding:8px 28px;border-bottom:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Complete Denture — Simple</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 45,000</span>
+        </div>
+        <div style="padding:8px 28px;border-right:1px solid rgba(255,255,255,.05);display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Complete Denture — Monoplast</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Rs. 60,000</span>
+        </div>
+        <div style="padding:8px 28px;display:flex;justify-content:space-between;align-items:center;">
+          <span style="font-size:.82rem;color:rgba(255,255,255,.7);">Full Mouth Rehabilitation</span><span style="font-size:.9rem;color:#7de8e8;font-weight:600;">Customized</span>
+        </div>
+      </div>
+      <!-- CTA bar -->
+      <div style="padding:18px 28px;background:rgba(10,107,107,.15);border-top:1px solid rgba(125,232,232,.15);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;">
+        <p style="font-size:.82rem;color:rgba(255,255,255,.55);">📌 Customized plans available after clinical consultation. WhatsApp for package pricing.</p>
+        <a href="https://wa.me/923111529680?text=I%20want%20to%20know%20dental%20prices%20at%20FZ%20Hospital" target="_blank" style="display:flex;align-items:center;gap:7px;background:var(--green);color:white;padding:10px 20px;border-radius:10px;font-size:.8rem;font-weight:700;white-space:nowrap;">💬 Get Your Quote</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="process-sec">
+  <div style="text-align:center;max-width:580px;margin:0 auto;">
+    <div class="eyebrow" style="justify-content:center;">How It Works</div>
+    <h2 class="sec-title">Your Journey to a <em>Perfect Smile</em></h2>
+    <p class="sec-sub" style="margin:0 auto;">Simple, transparent, comfortable — from first contact to your final beautiful smile.</p>
+  </div>
+  <div class="process-steps">
+    <div class="ps fi"><div class="ps-num">01</div><div class="ps-title">WhatsApp or Call</div><div class="ps-desc">Message us your dental concern. We respond instantly and guide you on next steps and estimated costs.</div></div>
+    <div class="ps fi"><div class="ps-num">02</div><div class="ps-title">Clinical Examination</div><div class="ps-desc">Our specialist examines your teeth with X-rays and creates a detailed, transparent treatment plan.</div></div>
+    <div class="ps fi"><div class="ps-num">03</div><div class="ps-title">Your Treatment</div><div class="ps-desc">Comfortable, pain-managed treatment in our modern dental clinic using advanced equipment.</div></div>
+    <div class="ps fi"><div class="ps-num">04</div><div class="ps-title">Your New Smile</div><div class="ps-desc">Walk out with the smile you've always wanted. We provide aftercare guidance and follow-up support.</div></div>
+  </div>
+</section>
+
+<!-- OFFERS -->
+<section class="offers-sec" id="offers">
+  <div style="text-align:center;">
+    <div class="eyebrow" style="justify-content:center;">Special Packages</div>
+    <h2 class="sec-title">Limited Time <em>Dental Offers</em></h2>
+    <p class="sec-sub" style="margin:0 auto;">Premium dental care at the most competitive prices in Islamabad — book before slots fill up.</p>
+  </div>
+  <div class="offers-grid">
+    <div class="oc fi">
+      <div class="oc-ico">🦷</div>
+      <div class="oc-badge">Best Deal</div>
+      <div class="oc-name">Dental Implant</div>
+      <div class="oc-was">Competitors charge Rs. 120,000+</div>
+      <div class="oc-price">Rs. 80,000</div>
+      <div class="oc-note">Complete implant by UK-trained surgeon</div>
+      <div class="cd-row" id="cd1"></div>
+      <a href="https://wa.me/923111529680?text=I%20want%20Dental%20Implant%20at%20FZ%20Hospital" class="btn-teal" target="_blank" style="justify-content:center;font-size:.82rem;padding:11px 18px;">💬 Free Consultation</a>
+    </div>
+    <div class="oc fi">
+      <div class="oc-ico">😁</div>
+      <div class="oc-badge">Installments OK</div>
+      <div class="oc-name">Metal Braces</div>
+      <div class="oc-was">&nbsp;</div>
+      <div class="oc-price">Rs. 35,000</div>
+      <div class="oc-note">Pay upfront · Easy monthly plan</div>
+      <div class="cd-row" id="cd2"></div>
+      <a href="https://wa.me/923111529680?text=I%20want%20Braces%20at%20FZ%20Hospital" class="btn-teal" target="_blank" style="justify-content:center;font-size:.82rem;padding:11px 18px;">💬 Book Braces</a>
+    </div>
+    <div class="oc fi">
+      <div class="oc-ico">✨</div>
+      <div class="oc-badge">Free</div>
+      <div class="oc-name">Orthodontic Consultation</div>
+      <div class="oc-was">&nbsp;</div>
+      <div class="oc-price">Rs. 1,500</div>
+      <div class="oc-note">Braces · Aligners · Smile Assessment</div>
+      <div class="cd-row" id="cd3"></div>
+      <a href="https://wa.me/923111529680?text=I%20want%20Free%20Dental%20Consultation%20at%20FZ%20Hospital" class="btn-teal" target="_blank" style="justify-content:center;font-size:.82rem;padding:11px 18px;">💬 Book Consult</a>
+    </div>
+  </div>
+</section>
+
+<!-- BEFORE / AFTER RESULTS -->
+<section class="ba-sec" id="results">
+  <div class="eyebrow">Treatment Results</div>
+  <h2 class="sec-title">What to <em>Expect</em></h2>
+  <p class="sec-sub">Real outcomes our Islamabad patients experience with our dental treatments.</p>
+  <div class="ba-grid">
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#e8f0f5,#d0e4ef);">
+        <img src="images/result-implant.jpg" alt="Dental implant result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#e8f0f5,#d0e4ef)\'>🦷</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Implant Result</div><div class="ba-info">Permanent from <span>day 1</span> · Rs. 80,000</div></div>
+    </div>
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#e8f5ee,#d0ece0);">
+        <img src="images/result-braces.jpg" alt="Braces result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#e8f5ee,#d0ece0)\'>😁</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Braces Result</div><div class="ba-info">Straight teeth in <span>12–18 months</span></div></div>
+    </div>
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#f5eee8,#f0dcc8);">
+        <img src="images/result-crown.jpg" alt="Crown result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#f5eee8,#f0dcc8)\'>👑</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Crown Result</div><div class="ba-info">Same day restoration <span>possible</span></div></div>
+    </div>
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#f0e8f5,#e8d0f0);">
+        <img src="images/result-whitening.jpg" alt="Teeth whitening result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#f0e8f5,#e8d0f0)\'>✨</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Whitening Result</div><div class="ba-info">Visible in <span>1 session</span></div></div>
+    </div>
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#f5f0e8,#f0e4d0);">
+        <img src="images/result-smile.jpg" alt="Smile makeover result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#f5f0e8,#f0e4d0)\'>⭐</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Smile Makeover</div><div class="ba-info">Complete transformation in <span>weeks</span></div></div>
+    </div>
+    <div class="ba-card fi">
+      <div class="ba-img" style="background:linear-gradient(135deg,#eaf5e8,#d4ecd0);">
+        <img src="images/result-rootcanal.jpg" alt="Root canal result" onerror="this.parentNode.innerHTML='<div class=\'ba-img-ph\' style=\'background:linear-gradient(135deg,#eaf5e8,#d4ecd0)\'>🔬</div>'">
+      </div>
+      <div class="ba-body"><div class="ba-title">Pain-Free Root Canal</div><div class="ba-info">Save your tooth in <span>1–2 visits</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- REVIEWS -->
+<section class="reviews-sec" id="reviews">
+  <div style="display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:16px;">
+    <div>
+      <div class="eyebrow">Patient Reviews</div>
+      <h2 class="sec-title">What Our Patients <em>Say</em></h2>
+    </div>
+    <a href="https://maps.app.goo.gl/EGrFk54bbtWk7nGb8" target="_blank" style="text-align:right;">
+      <div style="font-family:'DM Serif Display',serif;font-size:2.2rem;color:var(--teal);line-height:1;">4.7 ★</div>
+      <div style="font-size:.7rem;color:var(--gray);letter-spacing:.06em;">95+ Google Reviews</div>
+    </a>
+  </div>
+  <div class="rev-grid">
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★★</div>
+      <p class="rev-text">"Got my dental implant done by Dr. Ahwaz — honestly the best experience. Rs. 80,000 is great value for a permanent tooth. I can eat anything now and nobody can tell it's an implant!"</p>
+      <div class="rev-author"><div class="ra">A</div><div><div class="ra-name">Ahmed Rehman</div><div class="ra-treat">Dental Implant · DHA Phase 2</div></div><div class="ra-g">Google</div></div>
+    </div>
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★★</div>
+      <p class="rev-text">"Dr. Tooba is an amazing orthodontist! My braces journey has been smooth and my teeth are already straightening beautifully. The Rs. 35,000 with installments made it so affordable!"</p>
+      <div class="rev-author"><div class="ra">S</div><div><div class="ra-name">Sana Khan</div><div class="ra-treat">Braces · Bahria Town</div></div><div class="ra-g">Google</div></div>
+    </div>
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★★</div>
+      <p class="rev-text">"Had a root canal — I was terrified but Dr. Aiman made it completely painless. I felt absolutely nothing. Walked out in 90 minutes with my tooth saved. Best dentist near Jinnah Garden!"</p>
+      <div class="rev-author"><div class="ra">F</div><div><div class="ra-name">Fatima Malik</div><div class="ra-treat">Root Canal · G-13</div></div><div class="ra-g">Google</div></div>
+    </div>
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★★</div>
+      <p class="rev-text">"Got my full mouth done here — implants, crowns, and whitening. Dr. Ahwaz's UK training really shows. The team is professional, the clinic is spotless. My smile has completely changed!"</p>
+      <div class="rev-author"><div class="ra">U</div><div><div class="ra-name">Usman Tariq</div><div class="ra-treat">Full Mouth Rehab · PWD</div></div><div class="ra-g">Google</div></div>
+    </div>
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★☆</div>
+      <p class="rev-text">"Brought my kids here and the staff was so gentle and patient with them. Dr. Aiman made dental treatment fun for my children. Clean clinic, fair prices. Will definitely keep coming back."</p>
+      <div class="rev-author"><div class="ra">N</div><div><div class="ra-name">Nazia Iqbal</div><div class="ra-treat">Family Dentistry · Soan Gardens</div></div><div class="ra-g">Google</div></div>
+    </div>
+    <div class="rev-card fi">
+      <div class="rev-stars">★★★★★</div>
+      <p class="rev-text">"Invisible aligners by Dr. Tooba — zero complaints. They're so comfortable and discreet. Nobody at work knew I was wearing them! My teeth are perfectly straight now. Highly recommend!"</p>
+      <div class="rev-author"><div class="ra">M</div><div><div class="ra-name">Maria Qureshi</div><div class="ra-treat">Clear Aligners · Gulberg</div></div><div class="ra-g">Google</div></div>
+    </div>
+  </div>
+  <div style="text-align:center;margin-top:28px;">
+    <a href="https://maps.app.goo.gl/EGrFk54bbtWk7nGb8" target="_blank" class="btn-outline-w" style="display:inline-flex;border-color:var(--teal);color:var(--teal);">⭐ Leave a Google Review</a>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq-sec" id="faq">
+  <div style="text-align:center;max-width:600px;margin:0 auto;">
+    <div class="eyebrow" style="justify-content:center;">Frequently Asked</div>
+    <h2 class="sec-title">Common <em>Questions</em></h2>
+    <p class="sec-sub" style="margin:0 auto;">Everything you need to know before booking your dental appointment.</p>
+  </div>
+  <div class="faq-list">
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">How much do dental implants cost in Islamabad? <span class="faq-arr">+</span></div><div class="faq-a">At FZ International Hospital, dental implants start from Rs. 80,000 per implant. This is highly competitive compared to other clinics in Islamabad which typically charge Rs. 100,000–150,000. Treatment is performed by our UK-trained Oral Surgeon with MJDF and MDS OMFS qualifications. WhatsApp us for an exact quote after assessment.</div></div>
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">What is the price of braces in Islamabad? <span class="faq-arr">+</span></div><div class="faq-a">Metal braces by our FCPS Orthodontist start from Rs. 35,000 — with easy monthly installment plans. Clear/invisible aligners start from Rs. 80,000. Invisible (lingual) braces that go behind your teeth start from Rs. 150,000. Braces consultation is Rs. 1,500. Monthly adjustment visits range from Rs. 3,000–5,000 depending on complexity.</div></div>
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">Is root canal treatment painful? <span class="faq-arr">+</span></div><div class="faq-a">With modern techniques and proper local anesthesia, root canal treatment is virtually painless. Most patients report feeling pressure but no pain during the procedure. You may feel mild soreness for 1–2 days afterward, easily managed with over-the-counter pain relief. Same-day root canal is available — WhatsApp us for urgent appointments.</div></div>
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">How long do dental implants last? <span class="faq-arr">+</span></div><div class="faq-a">Dental implants are designed to last a lifetime with proper care. The titanium post fuses with your jawbone (osseointegration) and becomes a permanent part of your anatomy. The crown on top typically lasts 15–25 years. With good oral hygiene and regular dental checkups, implants can last 30+ years.</div></div>
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">How long does braces treatment take? <span class="faq-arr">+</span></div><div class="faq-a">Treatment duration depends on the severity of misalignment. Mild cases may take 12 months. Average cases take 18–24 months. Complex bite corrections may take 24–36 months. Our FCPS Orthodontist will give you a precise estimate after clinical examination and X-rays during your Rs. 1,500 consultation.</div></div>
+    <div class="faq-item fi"><div class="faq-q" onclick="tf(this)">Where is the dental clinic and can I book same-day? <span class="faq-arr">+</span></div><div class="faq-a">We are at 204 Street, Shaheen Commercial, Jinnah Garden, Islamabad — conveniently accessible from DHA, Bahria Town, PWD, Anchorage, Rawalpindi, and all of Islamabad. Same-day appointments are available subject to availability. WhatsApp +92 311 1529680 for fastest booking — we typically reply within minutes.</div></div>
+  </div>
+</section>
+
+<!-- BOOKING CTA -->
+<section class="book-sec">
+  <div class="book-inner">
+    <h2>Ready for Your<br><em>Dream Smile?</em></h2>
+    <p>Book your consultation today. Transparent pricing, expert hands, comfortable treatment. Same-day appointments available — reply in minutes on WhatsApp.</p>
+    <div class="book-ctas">
+      <a href="https://wa.me/923111529680?text=Hello%2C%20I%20want%20to%20book%20a%20Dental%20appointment%20at%20FZ%20Hospital%20Islamabad" class="btn-wa" target="_blank">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+        WhatsApp — Instant Response
+      </a>
+      <a href="tel:05144930311" class="btn-teal">📞 051-4493031</a>
+      <a href="#pricing" class="btn-outline-w">View All Prices</a>
+    </div>
+    <div class="urgency-note">Slots filling fast · <span>Same-day available</span> · No hidden charges</div>
+  </div>
+</section>
+
+<!-- MAP -->
+<section class="map-sec" id="location">
+  <div class="eyebrow">Find Us</div>
+  <h2 class="sec-title">Visit Our <em>Dental Clinic</em></h2>
+  <p class="sec-sub">204 Street, Shaheen Commercial, Jinnah Garden, Islamabad — accessible from DHA, Bahria Town, PWD, Rawalpindi and all of Islamabad.</p>
+  <div class="map-wrap">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d733.4919965657418!2d73.16908029250911!3d33.57436772046102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfed4a41148e3b%3A0xffb47c1dc40cc8da!2sFZ%20International%20Hospital%20Jinnah%20Garden!5e1!3m2!1sen!2s!4v1779216836149!5m2!1sen!2s"
+      width="100%" height="400" style="border:0;display:block;" allowfullscreen loading="lazy"></iframe>
+  </div>
+  <div class="map-cards">
+    <div class="mc"><span class="mc-ico">📍</span><div><strong>Address</strong><p>204 Street, Shaheen Commercial<br>Jinnah Garden, Islamabad</p></div></div>
+    <div class="mc"><span class="mc-ico">📞</span><div><strong>Call / WhatsApp</strong><p><a href="tel:05144930311" style="color:var(--text);">051-4493031</a><br><a href="https://wa.me/923111529680" style="color:var(--green);" target="_blank">031-11529680</a></p></div></div>
+    <div class="mc"><span class="mc-ico">🕐</span><div><strong>Clinic Hours</strong><p>Mon–Sat: 9:00 AM – 8:00 PM<br>Sunday: By Appointment</p></div></div>
+    <div class="mc"><span class="mc-ico">🚗</span><div><strong>Nearby Areas</strong><p>DHA · Bahria · PWD · Anchorage<br>Soan Gardens · Rawalpindi</p></div></div>
+  </div>
+  <div style="text-align:center;margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+    <a href="https://maps.app.goo.gl/EGrFk54bbtWk7nGb8" target="_blank" class="btn-teal" style="display:inline-flex;">📍 Open Google Maps</a>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=FZ+International+Hospital+Jinnah+Garden+Islamabad" target="_blank" class="btn-outline-w" style="display:inline-flex;border-color:var(--teal);color:var(--teal);">🚗 Get Directions</a>
+  </div>
+</section>
+
+<!-- BACK BAR -->
+<div class="back-bar">
+  <a href="index.html" class="back-btn">← Back to FZ International Hospital — All 14 Specialties</a>
+  <div class="back-info">FZ International Hospital · Cardiology · Gynecology · Psychiatry · Aesthetic · Neurosurgery · 24/7 Emergency · IHRA Registered</div>
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-grid">
+    <div class="footer-brand">
+      <div class="logo-wrap"><div class="logo-icon">FZ</div><div><span class="logo-name" style="color:white;">FZ Dental Clinic</span><span class="logo-sub">Islamabad · IHRA Registered</span></div></div>
+      <p>Premium dental care at FZ International Hospital, Jinnah Garden, Islamabad. FCPS Orthodontist · UK-Trained Oral Surgeon · Full family dental services.</p>
+      <p style="margin-top:10px;font-size:.8rem;color:rgba(255,255,255,.4);">📍 204 Street, Shaheen Commercial, Jinnah Garden, Islamabad<br>📞 051-4493031 · 💬 031-11529680</p>
+    </div>
+    <div class="footer-col">
+      <h4>Services</h4>
+      <ul>
+        <li><a href="#services">Dental Implants</a></li>
+        <li><a href="#services">Braces & Aligners</a></li>
+        <li><a href="#services">Root Canal</a></li>
+        <li><a href="#services">Crowns & Bridges</a></li>
+        <li><a href="#services">Smile Makeover</a></li>
+        <li><a href="#services">General Dentistry</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#team">Our Dentists</a></li>
+        <li><a href="#pricing">Price List</a></li>
+        <li><a href="#reviews">Patient Reviews</a></li>
+        <li><a href="#faq">FAQ</a></li>
+        <li><a href="index.html">Main Hospital</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Book Appointment</h4>
+      <p style="font-size:.82rem;color:rgba(255,255,255,.5);margin-bottom:14px;">Same-day available. WhatsApp for fastest booking.</p>
+      <a href="https://wa.me/923111529680" target="_blank" class="btn-wa" style="display:inline-flex;margin-bottom:10px;font-size:.8rem;padding:10px 16px;">💬 WhatsApp Now</a><br>
+      <a href="tel:05144930311" style="display:inline-flex;align-items:center;gap:6px;background:var(--navy-mid);color:white;padding:10px 16px;border-radius:10px;font-size:.8rem;font-weight:600;margin-top:8px;">📞 051-4493031</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2025 FZ International Hospital — Dental Clinic · Jinnah Garden, Islamabad · IHRA Registered</p>
+    <p style="margin-top:5px;">Best Dental Clinic Islamabad | <a href="index.html">Main Hospital</a> | Dental Implants Islamabad | Orthodontist Islamabad | Root Canal Islamabad | Dentist near Jinnah Garden</p>
+  </div>
+</footer>
+
+<!-- STICKY -->
+<div class="sticky" id="sticky">
+  <div class="sb" id="sBub"><strong>💬 Chat with our team!</strong>Dental team replies in minutes. Book now!</div>
+  <a href="https://wa.me/923111529680?text=I%20want%20to%20book%20a%20Dental%20appointment%20at%20FZ%20Hospital" class="sw" target="_blank">
+    <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+    WhatsApp
+  </a>
+  <a href="tel:05144930311" class="sc">📞 051-4493031</a>
+</div>
+
+<script>
+window.addEventListener('scroll',()=>document.getElementById('nav').classList.toggle('scrolled',scrollY>50));
+const obs=new IntersectionObserver(e=>e.forEach(x=>{if(x.isIntersecting){x.target.classList.add('vis');obs.unobserve(x.target);}}),{threshold:.07});
+document.querySelectorAll('.fi').forEach(el=>obs.observe(el));
+function cd(end,id){
+  function tick(){
+    const d=end-Date.now();if(d<0)return;
+    const dy=Math.floor(d/86400000),hr=Math.floor((d%86400000)/3600000),mn=Math.floor((d%3600000)/60000),sc=Math.floor((d%60000)/1000);
+    const el=document.getElementById(id);
+    if(el)el.innerHTML=`<div class="cdu"><span class="cdn">${dy}</span><span class="cdl">DAYS</span></div><span class="cds">:</span><div class="cdu"><span class="cdn">${String(hr).padStart(2,'0')}</span><span class="cdl">HRS</span></div><span class="cds">:</span><div class="cdu"><span class="cdn">${String(mn).padStart(2,'0')}</span><span class="cdl">MIN</span></div><span class="cds">:</span><div class="cdu"><span class="cdn">${String(sc).padStart(2,'0')}</span><span class="cdl">SEC</span></div>`;
+  }
+  tick();setInterval(tick,1000);
+}
+const n=Date.now();
+cd(n+7*86400000,'cd1');
+cd(n+14*86400000,'cd2');
+cd(n+14*86400000,'cd3');
+function tf(el){const item=el.closest('.faq-item'),open=item.classList.contains('open');document.querySelectorAll('.faq-item.open').forEach(i=>i.classList.remove('open'));if(!open)item.classList.add('open');}
+setTimeout(()=>{const b=document.getElementById('sBub');if(b){b.style.display='block';setTimeout(()=>b.style.display='none',7000);}},9000);
+</script>
+</body>
+</html>
